@@ -5,8 +5,8 @@
 ### Camila Teran 201822000
 
 Contenido:
-*Notebook de Python
-*Datos
-*Presentación
-*Documento
+* Notebook de Python
+* Datos
+* Presentación
+* Documento
 
